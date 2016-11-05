@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aRBaseLib-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/aRMovie/build/intermediates/exploded-aar/ARMovieProj/aRBaseLib/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/aRMovie/build/intermediates/exploded-aar/ARMovieProj/aRBaseLib/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Workspace/AR/ARMovieProj/aRMovie/build/intermediates/exploded-aar/ARMovieProj/aRBaseLib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string-array name="pref_entries_cameraIndex">
+        <item>Rear camera</item>
+    </string-array>
+    <string-array name="pref_entries_cameraResolution">
+        <item>320x240   (4:3)</item>
+    </string-array>
+    <string-array name="pref_entryValues_cameraIndex">
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_entryValues_cameraResolution">
+        <item>320x240</item>
+    </string-array>
+    <!-- From: file:/E:/Workspace/AR/ARMovieProj/aRMovie/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ARCloud</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello">Hello World, ARMovieActivity!</string>
+    <string name="ip">IP</string>
+    <!-- From: file:/E:/Workspace/AR/ARMovieProj/aRMovie/build/intermediates/exploded-aar/ARMovieProj/aRBaseLib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="menuItem_settings">Settings</string>
+    <!-- From: file:/E:/Workspace/AR/ARMovieProj/aRMovie/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ok">OK</string>
+    <string name="port">Port</string>
+    <!-- From: file:/E:/Workspace/AR/ARMovieProj/aRMovie/build/intermediates/exploded-aar/ARMovieProj/aRBaseLib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="prefCategory_title_camera">Camera settings</string>
+    <string name="pref_defaultValue_cameraResolution">320x240</string>
+    <string name="pref_title_cameraIndex">Change camera</string>
+    <string name="pref_title_cameraResolution">Camera resolution</string>
+    <!-- From: file:/E:/Workspace/AR/ARMovieProj/aRMovie/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="search">Search</string>
+    <string name="setting_title">Server Setting</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>

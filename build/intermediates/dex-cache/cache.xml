@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Workspace\AR\ARMovieProj\aRMovie\src\main\libs\commons-io-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b24f6678d458e65f08113a079e3724581eca1184">
+        <dex dex="E:\Workspace\AR\ARMovieProj\aRMovie\build\intermediates\pre-dexed\debug\commons-io-2.5-2ad84d331809577c2bf5da01a236240a26d50b2a.jar" />
+    </item>
+
+</items>
